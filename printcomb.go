@@ -2,7 +2,7 @@ package piscine
 
 import "github.com/01-edu/z01"
 
-func printComp() {
+func printComb() {
 	var a rune = 48
 	for i := a; i < 58; i++ {
 		for j := a; j < 58; j++ {
