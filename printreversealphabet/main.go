@@ -3,7 +3,6 @@ package main
 import "github.com/01-edu/z01"
 
 func main() {
-
 	z01.PrintRune(122)
 	z01.PrintRune(121)
 	z01.PrintRune(120)
@@ -27,7 +26,7 @@ func main() {
 	z01.PrintRune(102)
 	z01.PrintRune(101)
 	z01.PrintRune(100)
-	z01.PrintRune(99)	
+	z01.PrintRune(99)
 	z01.PrintRune(98)
 	z01.PrintRune(97)
 	z01.PrintRune(12)
