@@ -4,9 +4,9 @@ import "github.com/01-edu/z01"
 
 func printComp() {
 	var a rune = 48
-	for i := a, i < 58, i++ {
-			for j := a, j < 58, j++ {
-					for k := a, k < 58, k++ {
+	for i := a; i < 58; i++ {
+			for j := a; j < 58; j++ {
+					for k := a; k < 58; k++ {
 							if i < j {
 									if j < k {
 											if k != i {
