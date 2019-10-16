@@ -18,6 +18,7 @@ func printComp() {
 													} else {
 															z01.PrintRune(44)
 															z01.PrintRune(32)
+													}
 											}
 									}
 							}
