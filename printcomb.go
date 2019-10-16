@@ -9,7 +9,7 @@ func printComp() {
 					for k := a, k < 58, k++ {
 							if i < j {
 									if j < k {
-											if z != i {
+											if k != i {
 													z01.PrintRune(i)
 													z01.PrintRune(j)
 													z01.PrintRune(k)
